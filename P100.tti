@@ -3,6 +3,7 @@ CT,8,T
 PS,8000
 PN,10001
 SC,0001
+FL,101,300,600,199,8ff,8ff
 OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
@@ -23,12 +24,14 @@ OL,20,  A-Z Index        199  Q"######T----//%
 OL,21,                        CF              
 OL,22,D]CFinanceG200CSportG300CEuropapersG147 
 OL,23,D]CWisdom G571CFlashG150CLottery G  555@
+OL,24,ANews Heads BSport CTV/Radio FA/Z Index
 
 DE,
 CT,8,T
 PS,8000
 PN,10002
 SC,0002
+FL,101,300,600,199,8ff,8ff
 OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
@@ -49,12 +52,13 @@ OL,20,                     \ W  8m
 OL,21,                     \ W   ./+)+%       
 OL,22,D]CLettersG145CFlashG150CEuropapersG147 
 OL,23,D]CWisdom G571CSportG300CLotteryG   555@
-OL,24,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,24,ANews Heads BSport CTV/Radio FA/Z Index
 DE,
 CT,8,T
 PS,8000
 PN,10003
 SC,0003
+FL,101,300,600,199,8ff,8ff
 OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
@@ -76,12 +80,13 @@ OL,20, GA-Z index        199 Q QW(,//////
 OL,21,D                        F        C>>>>>
 OL,22,D]CCATCH UP WITH YOUR LOCAL CEEFAXG160  
 OL,23,D]CWeatherG400 CSportG300 CLotteryG555@@
-OL,24,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,24,ANews Heads BSport CTV/Radio FA/Z Index
 DE,
 CT,8,T
 PS,8000
 PN,10004
 SC,0004
+FL,101,300,600,199,8ff,8ff
 OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
@@ -102,12 +107,13 @@ OL,20,                     \ W  8m
 OL,21,                     \ W   ./+)+%       
 OL,22,D]CREGIONALG160CLettersG145CQuotes G146 
 OL,23,D]CPoliticsG144CSport  G300CLotteryG555@
-OL,24,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,24,ANews Heads BSport CTV/Radio FA/Z Index
 DE,
 CT,8,T
 PS,8000
 PN,10005
 SC,0005
+FL,101,300,600,199,8ff,8ff
 OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
@@ -128,12 +134,13 @@ OL,19, CFEATURES         540    T/!        #
 OL,20,  A-Z Index        199                  
 OL,22,D]CTV LinksG615CSportG300CFeaturesG540  
 OL,23,D]CWisdom  G571CCity G200CPoliticsG144@@
-OL,24,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,24,ANews Heads BSport CTV/Radio FA/Z Index
 DE,
 CT,8,T
 PS,8000
 PN,10006
 SC,0006
+FL,101,300,600,199,8ff,8ff
 OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
@@ -157,12 +164,13 @@ OL,20,CSHOWBIZ       G540CSUBTITLING      G888
 OL,21,                        CF              
 OL,22,D]CNEWS EXTRA INDEX G140CEuropapersG147 
 OL,23,D]CHome G141 CWorld G142CCPolitics G144 
-OL,24,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,24,ANews Heads BSport CTV/Radio FA/Z Index
 DE,
 CT,8,T
 PS,8000
 PN,10007
 SC,0007
+FL,101,300,600,199,8ff,8ff
 OL,1,W<,|h,l4<,lT||,l|,<,<,<,|<lll,,l,l,ll,l|
 OL,2,W5qkjb255nT]S75 wj{js"7pj!55775w%w%5w5 
 OL,3,W-,.*,,%-,.D]S%%$-**(. % *$-%%%%-%%%%%% 
@@ -183,5 +191,5 @@ OL,20,                         S R  (>'+'&/!
 OL,21,C```````````````````````````````````````
 OL,22,D]GNATIONAL CEEFAXCNewsG101CLotteryG555 
 OL,23,D]CCityG200CTickertape G151CCBBCG   500@
-OL,24,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,24,ANews Heads BSport CTV/Radio FA/Z Index
 
